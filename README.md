@@ -27,3 +27,12 @@
 Выполненное домашнее задание пришлите в виде ссылки на .md-файл в вашем репозитории.
 
 ---
+
+
+![alt text](https://github.com/MaratKN/08-ansible-02-playbook/blob/main/1.png)
+![alt text](https://github.com/MaratKN/08-ansible-02-playbook/blob/main/2.png)
+![alt text](https://github.com/MaratKN/08-ansible-02-playbook/blob/main/3.png)
+![alt text](https://github.com/MaratKN/08-ansible-02-playbook/blob/main/4.png)
+![alt text](https://github.com/MaratKN/08-ansible-02-playbook/blob/main/5.png)
+
+[Playbook](https://github.com/MaratKN/08-ansible-02-playbook/tree/main/playbook)
